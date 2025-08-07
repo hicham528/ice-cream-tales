@@ -1,12 +1,30 @@
-# React + Vite
+# 🍦 Ice Cream Tales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Ice Cream Tales** is a creative and community-driven website dedicated to sharing sweet, nostalgic, and fun stories about ice cream from around the world. Whether it's a childhood memory, a travel scoop, or a favorite flavor experience—every tale deserves to be told.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [ice-cream-tales.pages.dev](https://ice-cream-tales.pages.dev/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- 🍨 **Modern UI/UX**: Responsive and minimal design made for all devices.
+- ✍️ **Storytelling Focus**: Showcases user-submitted ice cream stories.
+- 🌍 **Community Vibes**: Global contributions, making it more than just a blog.
+- 🎨 **Fun Animations**: Subtle motion effects to enhance engagement.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js with Tailwind CSS  
+- **Deployment**: Cloudflare Pages  
+- **Animation & UX**: GSAP, SplitText, and Framer Motion  
+- **Icons & UI**: Material UI (MUI)
+
+---
+
+## 📂 Project Structure
+
